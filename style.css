@@ -1,0 +1,37 @@
+body {
+    background-color: #02529f;
+    margin: 0;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.main-content {
+    background-color: #ff9500;
+    padding-bottom: 5px;
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+/* this is the offical border */}
+
+.main-content h1 {
+    text-align: center;
+    color: #02529f;
+    font-size: 50px;
+    text-shadow: 2px 2px black
+    
+    
+}
+
+.main-content img {
+    display: block;
+    margin: auto;
+}
+
+.main-content button {
+    margin: 20px;
+}
+
+p {margin: 20px;}
+
+ul {margin: 20px}
+
